@@ -101,4 +101,5 @@ pkill -f detection.py
 rm /var/ossec/logs/dlp_alerts.log
 
 
-Author: VanHung
+Author: ChauNguyen
+
